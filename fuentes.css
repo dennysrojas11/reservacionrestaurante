@@ -1,0 +1,25 @@
+@font-face {
+  font-family: quickssandbold;
+  src: url(fuentes/quicksandbold.otf);
+}
+
+h1 {
+  font-family: quicksandbold;
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+
+@font-face {
+  font-family: quickssandlight;
+  src: url(fuentes/quicksandlight.otf);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: quicksandlight;
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
